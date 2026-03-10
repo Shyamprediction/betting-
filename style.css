@@ -11,7 +11,7 @@
     height: 100vh;
     margin: 0;
     padding: 0;
-    background: url("kin.jpg") no-repeat center center;
+    background: url("ravit.jpg") no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -340,4 +340,5 @@
   margin-top: 15px;
 
 }
+
 
