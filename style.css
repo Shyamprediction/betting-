@@ -11,7 +11,7 @@
     height: 100vh;
     margin: 0;
     padding: 0;
-    background: url("IMG_20251109_094222_782.jpg") no-repeat center center;
+    background: url("kin.jpg") no-repeat center center;
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -338,4 +338,5 @@
 }
 .btn1{
   margin-top: 15px;
+
 }
